@@ -4,5 +4,7 @@ public class Hello {
      System.out.println("Hello, world from GIT!");
      System.out.println("Changes after first commit");
      System.out.println("Changes after pushing to the remote");
+     System.out.println("More changes");
+
   }
 }
