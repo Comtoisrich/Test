@@ -5,6 +5,6 @@ public class Hello {
      System.out.println("Changes after first commit");
      System.out.println("Changes after pushing to the remote");
      System.out.println("More and more changes");
-
+     System.out.println("More changes to initiate automated build");
   }
 }
